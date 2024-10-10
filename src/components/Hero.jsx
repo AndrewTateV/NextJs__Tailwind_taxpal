@@ -74,7 +74,7 @@ const Hero = () => {
       <div className="mt-10 flex justify-center gap-x-6">
         <Button href="/register">Get 6 Months Free</Button>
         <Button
-          href="https://topcoderfullstack.com"
+          href="https://youtube.com"
           variant="outline">
           <HeroRegSvg />
           <span className="ml-3">Watch WebSite</span>
